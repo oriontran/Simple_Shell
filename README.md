@@ -1,1 +1,1 @@
-# ECS150_HW1
+Implementation of a simple UNIX shell
